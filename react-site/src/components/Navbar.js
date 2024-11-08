@@ -6,7 +6,7 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-blue-600 p-4">
+    <nav className="bg-zinc-800 p-4">
       <div className="container mx-auto flex justify-between items-center">
         
         {/* Logo */}
